@@ -1,0 +1,14 @@
+
+myip:
+     192.168.188.128
+myport:
+     9080
+userbody:
+   name: lucy
+   password: 12345
+   birthday: 20200506
+   mobile: 14356754587
+   address: �ƺ���
+spring:
+  profiles:
+    active: dev
